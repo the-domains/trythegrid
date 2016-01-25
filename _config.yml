@@ -2,6 +2,7 @@ name: TryTheGrid
 favicon: null
 layout_spectrum: 0.20668
 typography_spectrum: 0.88779
+title: OBDS
 cta:
   domain: null
   bucket: null
