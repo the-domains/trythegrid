@@ -4,21 +4,23 @@
         <description><![CDATA[TryTheGrid]]></description>
         <link>https://thegrid.ai/trythegrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 19:56:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 20:03:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trythegrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On a safe flight deck, every document is always up-to-date]]></title>
+            <description><![CDATA[<article><h1>On a safe flight deck, every document is always up-to-date</h1><p>Designed with both single-aircraft operators and large fleet operators in mind, Aviation Docs™ is one app that every pilot needs on their mobile device.
+
+Aviation Docs™ is a mobile app that connects with a proprietary cloud-based system to allow fleet managers and tech pubs departments to distribute and update aircraft manuals, flight plans, forms, checklists, training manuals, ICAO annexes, insurance certificates, medical certificates, MELs, charts, NOTAMS, regulation changes, rescue and firefighting procedures, SMS docs, weather information, dangerous goods procedures… virtually every doc pilots need - securely, reliably and compliantly, to one aircraft or thousands.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d00ff765bf23c82459d05646e41f0c3c393824df.jpg"></article>]]></description>
+            <link>https://thegrid.ai/trythegrid/2199e85a-3d29-43b2-b645-c59d1d890c16/index.html</link>
+            <guid isPermaLink="false">2199e85a-3d29-43b2-b645-c59d1d890c16</guid>
+            <pubDate>Mon, 25 Jan 2016 20:03:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0716d989-3460-407d-8aed-7acacbf381b9.png">]]></description>
             <link>https://thegrid.ai/trythegrid/2518c238-b2b8-446e-a306-8939458d7858/index.html</link>
             <guid isPermaLink="false">2518c238-b2b8-446e-a306-8939458d7858</guid>
             <pubDate>Mon, 25 Jan 2016 19:56:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ec5c8de-f3c7-4c4e-b4bd-0fed29faae6f.jpg">]]></description>
-            <link>https://thegrid.ai/trythegrid/2199e85a-3d29-43b2-b645-c59d1d890c16/index.html</link>
-            <guid isPermaLink="false">2199e85a-3d29-43b2-b645-c59d1d890c16</guid>
-            <pubDate>Mon, 25 Jan 2016 19:55:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
