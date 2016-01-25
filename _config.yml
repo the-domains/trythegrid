@@ -1,7 +1,7 @@
 name: TryTheGrid
 favicon: null
 layout_spectrum: 0.923275574343279
-typography_spectrum: 0.05226477491669357
+typography_spectrum: 0.88933
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#fdfff2'
     - '#ff9f4b'
     - '#6a82b4'
-  brandStrength: 0.22912875935435295
-  lightness: 0.833546076901257
-  saturation: 0.37447053426876664
-  rhythmicContrast: 0.848577553872019
+  brandStrength: 0.3125
+  lightness: 0.8125
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
